@@ -110,4 +110,4 @@ venv.bak/
 .sample_MenseMain.ipynb/
 
 # check point
-ckpt
+training_checkpoints/
