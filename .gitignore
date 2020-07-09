@@ -108,3 +108,6 @@ venv.bak/
 
 # jupyter lab
 .sample_MenseMain.ipynb/
+
+# check point
+ckpt
